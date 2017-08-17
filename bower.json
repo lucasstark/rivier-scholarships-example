@@ -1,0 +1,17 @@
+{
+	"name": "rivier-scholarships-example",
+	"title": "Rivier Scholarships Example",
+	"description": "Example plugin from our generator for Rivier Scholarships",
+	"version": "0.1.0",
+	"main": "/",
+	"ignore": [
+		"**/.*",
+		"*.md",
+		"assets/sass/*",
+		"assets/js/src/*",
+		"assets/js/vendor/*",
+		"assets/img/src/*",
+		"Gruntfile.js",
+		"package.json"
+	]
+}
